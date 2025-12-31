@@ -1,0 +1,140 @@
+.feed-page{
+    display: flex;
+    width: 100%;
+}
+
+.feed-search-container{
+    width: 100%;
+    height: 6rem;
+    border-radius: 1.2rem;
+    background-color: aliceblue;
+    box-sizing: border-box;
+    box-shadow: 3px 3px 15px 0px rgba(0,0,0,0.5);
+    margin-top: 5.6rem;
+    display: flex;
+    border-radius: 1.2rem;
+}
+
+.feed-search-mag{
+    width: 6rem;
+    height: 6rem;
+    color: purple;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.6rem;
+    cursor: pointer;
+}
+
+.feed-search-container > input{
+    width: 100%;
+    padding-left: 1.6rem;
+    font-size: 1.6rem;
+    border-radius: 1.2rem;
+    border: 0;
+    outline: 0;
+    background-color: aliceblue;
+}
+
+.feed-container{
+    height: fit-content;
+    width: 100%;
+    padding: 1.2rem;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+    background-color: aliceblue;
+    border-radius: 1.2rem;
+    margin-top: 1.6rem;
+}
+
+.no-feed-message{
+    font-size: 1.6rem;
+    font-weight: bold;
+    text-align: center;
+    padding: 1.2rem 0;
+}
+
+.found-users-outer{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0.8rem;
+    margin-top: 1.6rem;
+}
+
+.found-user-item{
+    width: 100%;
+    height: 6rem;
+    background-color: aliceblue;
+    border-radius: 1.2rem;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.found-user-image{
+    height: 4rem;
+    width: 4rem;
+    object-fit: cover;
+    margin-left: 1.2rem;
+    border-radius: 50%;
+}
+
+.found-user-image > img{
+    max-height: 100%;
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+.found-user-name{
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin-left: 0.8rem;
+}
+
+.link{
+    margin-left: auto;
+    margin-right: 1.2rem;
+}
+
+@media screen and (max-width: 900px) {
+    .found-users-outer{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (max-width: 390px) {
+    .found-users-outer{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+.hidden{
+    display: none;
+}
+
+.load-more-button{
+    background-color: purple;
+    color: white;
+    font-weight: bold;
+    font-size: 1.6rem;
+    height: fit-content;
+    border-radius: 0.4rem;
+    width: fit-content;
+    margin: 0 auto;
+    margin-top: 2.4rem;
+    margin-bottom: 2.4rem;
+    cursor: pointer;
+    transition: 120ms;
+}
+
+.load-more-button:hover{
+    background-color: rgb(110, 0, 110);
+    transition: 120ms;
+}
+
+.load-more-button > p{
+    padding: 0.8rem 1.6rem;
+}

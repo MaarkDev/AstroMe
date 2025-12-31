@@ -1,0 +1,115 @@
+.post-outer{
+    width: 100%;
+    height: fit-content;
+}
+
+.post-pfp-and-name{
+    display: flex;
+    align-items: center;
+}
+
+.post-pfp{
+    width: 3.6rem;
+    height: 3.6rem;
+}
+
+.post-pfp > img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.post-name{
+    margin-left: 0.8rem;
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+
+.post-content-text{
+    font-size: 1.4rem;
+    padding: 0.8rem;
+}
+
+.post-image{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.post-image > img {
+    width: 100%;
+    max-width: 48rem;
+    
+    box-sizing: border-box;
+    border-radius: 1.2rem;
+    margin: 1.6rem 0;
+}
+
+.post-interaction-container{
+    display: flex;
+    justify-content: flex-end;
+    padding: 0.8rem;
+    box-sizing: border-box;
+    font-size: 1.6rem;
+    font-weight: bold;
+    color: gray;
+    
+}
+
+.post-interaction-container > p{
+    transition: 200ms;
+}
+
+.post-like-button:hover{
+    color: rgb(198, 108, 198);
+    transform: scale(1.1);
+    transition: 200ms;
+    cursor: pointer;
+}
+
+.post-comments-button:hover{
+    color: rgb(169, 110, 234);
+    transform: scale(1.1);
+    transition: 200ms;
+    cursor: pointer;
+}
+
+.post-share-button:hover{
+    color: rgb(154, 154, 255);
+    transform: scale(1.1);
+    transition: 200ms;
+    cursor: pointer;
+}
+
+.post-interaction-container > p{
+    margin-left: 2rem;
+}
+
+.post-delete-button{
+    transition: 200ms;
+}
+
+.post-delete-button:hover{
+    color: red;
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 200ms;
+}
+
+
+
+@media screen and (max-width: 768px) {
+    .post-interaction-container{
+        margin-left: 0;
+        justify-content: space-between;
+        gap: 1.6rem
+    }
+    .post-like-button, .post-comments-button, .post-share-button{
+        text-align: center !important;
+        margin: 0 !important;
+    }
+    .post-outer{
+        margin-top: 2.4rem;
+    }
+}

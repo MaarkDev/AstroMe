@@ -1,0 +1,97 @@
+.saved-day-outer{
+    width: 100%;
+    height: fit-content;
+    background-color: aliceblue;
+    margin-bottom: 1.2rem;
+    padding: 1.2rem;
+    box-sizing: border-box;
+    border-radius: 1.2rem;
+}
+
+.saved-day-quote-first, .saved-day-horoscope-heading, .saved-day-nasa-title, .saved-day-moon-heading{
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+
+.saved-day-quote{
+    font-size: 2.4rem;
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+    margin-top: 1.2rem;
+    text-align: center;
+
+    background: linear-gradient(90deg , rgb(235, 100, 235), rgb(126, 22, 118), purple);
+    background-size: 200% auto;
+    color: #000;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: headingAnimation 6s linear infinite;
+}
+
+@keyframes headingAnimation {
+    to {
+        background-position: 200% center;
+    }
+}
+
+.saved-day-quote-author {
+    text-align: right;
+    font-size: 1.6rem;
+    font-weight: bold;
+    margin-top: 0.4rem;
+}
+
+.saved-day-horoscope-heading, .saved-day-nasa-title, .saved-day-moon-heading{
+    margin-top: 1.2rem;
+}
+
+.saved-day-horoscope-text{
+    margin-top: 0.2rem;
+    contain: content;
+    font-size: 1.4rem;
+}
+
+.saved-day-nasa-name{
+    font-size: 1.4rem;
+    font-weight: bold;
+}
+
+.saved-day-nasa-details{
+    display: flex;
+    margin-top: 0.8rem;
+}
+
+.saved-day-nasa-photo{
+    flex: 1;
+}
+
+.saved-day-nasa-photo > img{
+    max-width: 100%;
+    border-radius: 1.2rem;
+}
+
+.saved-day-nasa-text{
+    flex: 3;
+    font-size: 1.4rem;
+    padding: 1.2rem;
+    box-sizing: border-box;
+    height: 100%;
+}
+
+@media screen and (max-width: 768px) {
+    .saved-day-outer{
+        text-align: center;
+    }
+    .saved-day-nasa-details{
+        flex-direction: column;
+    }
+    .saved-day-quote-first{
+        text-align: left;
+        margin-top: 1.2rem;
+    }
+    .saved-day-horoscope-heading, .saved-day-moon-heading, .saved-day-nasa-title{
+        margin-top: 2.4rem;
+    }
+    
+}

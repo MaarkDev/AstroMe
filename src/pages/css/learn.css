@@ -1,0 +1,109 @@
+.learn-page{
+    display: flex;
+    width: 100%;
+}
+
+.learn-page-heading{
+    margin-top: 5.6rem;
+    font-size: 3.6rem;
+
+
+    animation: greetingAnimation 6s ease-in-out infinite;
+}
+
+@keyframes greetingAnimation {
+    0%{
+        color: rgb(235, 100, 235);
+    }50%{
+        color: rgb(210, 50, 210);
+    }100%{
+        color: rgb(235, 100, 235);
+    }
+}
+
+@keyframes headingAnimation {
+    to {
+        background-position: 200% center;
+    }
+}
+
+.crystals-for-you-grid{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.8rem;
+    margin-top: 2.4rem;
+}
+
+.crystals-for-you-grid-el{
+    height: 6.4rem;
+    background-color: white;
+    border-radius: 0.4rem;
+    display: flex;
+    align-items: center;
+    padding: 0.4rem;
+    box-sizing: border-box;
+    min-width: fit-content;
+}
+
+.crystals-for-you-grid-el:hover{
+    cursor: pointer;
+}
+
+.crystals-foreign-grid{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0.8rem;
+    margin-top: 2.4rem;
+}
+
+.crystals-crystals-grid{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.8rem;
+    margin-top: 2.4rem;
+}
+
+.secondary{
+    font-size: 2.4rem;
+}
+
+.crystal-icon-container{
+    height: 80%;
+    object-fit: contain;
+}
+
+.crystal-icon-label{
+    font-size: 1.6rem;
+    font-weight: bold;
+    margin-left: 0.4rem;
+}
+
+.crystal-icon-container > img {
+    height: 100%;
+    object-fit: contain;
+}
+
+@media screen and (max-width: 700px) {
+    .crystals-for-you-grid{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .crystals-for-you-grid-el{
+        justify-content: center;
+    }
+    .crystals-foreign-grid{
+        grid-template-columns: repeat(2,  1fr);
+    }
+    .crystals-crystals-grid{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+.foreign-zodiac{
+    font-weight: bold;
+    font-size: 1.6rem;
+    width: 100%;
+    text-align: center;
+}

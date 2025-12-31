@@ -1,0 +1,59 @@
+.page-bg{
+    background-image: url('../images/bg.jpg');
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    z-index: -10;
+    filter: brightness(0.4);
+    background-size: 200% 200%;
+    object-fit: contain;
+}
+
+.page-bg > img{
+    object-fit: cover;
+    animation: bgAnimation 200s linear infinite;
+    background-size: 200% 200%;
+}
+
+@keyframes bgAnimation {
+    0%{
+        background-position: 40% 40%;
+        transform: scale(1) rotate(0deg);
+    }50%{
+        background-position: 60% 60%;
+        transform: scale(1.4) rotate(30deg);
+    }100%{
+        background-position: 40% 40%;
+        transform: scale(1) rotate(0deg);
+    }
+}
+
+.page-content{
+    width: 60%;
+    max-width: 100rem;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    height: fit-content;
+    margin-bottom: 8rem;
+}
+
+@media screen and (max-width: 1440px) {
+    .page-content{
+        margin-left: 14rem;
+    }
+}
+
+@media screen and (min-width: 451px) and (max-width: 1360px) {
+    .page-content{
+        width: 80%;
+        margin-left: 2.4rem;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .page-content{
+        width: 90%;
+        margin-left: -0.3rem;
+    }
+}

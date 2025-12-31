@@ -1,0 +1,67 @@
+.comment-outer{
+    width: 100%;
+    height: fit-content;
+    margin-top: 2.4rem;
+}
+
+.comment-photo-and-name{
+    height: 4rem;
+    display: flex;
+    align-items: center;
+}
+
+.comment-photo-container{
+    height: 4rem;
+    width: 4rem;
+    object-fit: contain;
+}
+
+.comment-photo-container > img{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    border-radius: 50%;
+}
+
+.comment-name-and-date{
+    display: flex;
+    flex-direction: column;
+    margin-left: 0.8rem;
+}
+
+.comment-name{
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+
+.comment-date{
+    font-size: 1.2rem;
+}
+
+.comment-interaction{
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.comment-comment{
+    font-size: 1.4rem;
+    margin-top: 0.8rem;
+    padding: 0 0.8rem;
+}
+
+.comment-delete{
+    color: gray;
+    margin-right: 0.4rem;
+    margin-left: auto;
+    font-size: 1.4rem;
+    margin-top: 1.4rem;
+    margin-bottom: auto;
+    transition: 200ms;
+
+}
+
+.comment-delete:hover{
+    cursor: pointer;
+    transition: 200ms;
+    color: rgb(255, 117, 117);
+}

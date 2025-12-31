@@ -1,0 +1,86 @@
+.crystal-tab-outer{
+    width: 100%;
+    height: fit-content;
+    padding: 1.2rem;
+    padding-bottom: 2.2rem;
+    box-sizing: border-box;
+    background-color: white;
+    border-radius: 0.4rem;
+    margin-top: 0.8rem;
+}
+
+.crystal-tab-content-container{
+    display: flex;
+    width: 100%;
+    height: fit-content;
+    margin-top: 2.4rem;
+}
+
+.crystal-tab-image-container{
+    flex: 1;
+    height: 20rem;
+    width: 20rem;
+    object-fit: contain;
+    display: flex;
+    justify-content: center;
+}
+
+.crystal-tab-image-container > img{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+    border-radius: 0.4rem;
+}
+
+.crystal-tab-text-container{
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+}
+
+.crystal-tab-text-container > p{
+    font-size: 1.4rem;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.foreign-tab-heading{
+    font-size: 2.4rem;
+    margin-bottom: 1.6rem;
+    background: linear-gradient(90deg , rgb(235, 100, 235), rgb(126, 22, 118), purple);
+    background-size: 200% auto;
+    color: #000;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: headingAnimation 6s linear infinite;
+}
+
+@keyframes headingAnimation {
+    to {
+        background-position: 200% center;
+    }
+}
+
+.foreign-info-tab{
+    margin-bottom: 2.4rem;
+}
+
+.foreign-info-tab:last-child{
+    margin-bottom: 1.2rem;
+}
+
+@media screen and (max-width: 768px){
+    .crystal-tab-content-container{
+        flex-direction: column;
+    }
+    .crystal-tab-image-container{
+        width: 100%;
+        max-width: 40rem;
+        margin: 0 auto;
+        margin-bottom: 2.4rem;
+    }
+}

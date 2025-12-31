@@ -1,0 +1,131 @@
+.rep-user-card-container{
+    display: grid;
+}
+
+.rep-usr-card-outer{
+    width: 100%;
+    background-color: white;
+    border-radius: 0.4rem;
+    padding: 1.2rem;
+    box-sizing: border-box;
+}
+
+.rep-pfp-wrapper{
+    width: 80%;
+    aspect-ratio: 1/1;
+    margin: 0 auto;
+    margin-top: 1.6rem;
+    margin-bottom: 1.6rem;
+    
+}
+
+.rep-username{
+    text-align: center;
+    width: 100%;
+    margin-top: 1.2rem;
+    cursor: pointer;
+}
+
+.rep-pfp-wrapper > img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.rep-user-button-contaier{
+    display: flex;
+    gap: 0.4rem;
+}
+
+.rep-user-delete, .rep-user-keep{
+    width: 100%;
+    border-radius: 0.4rem;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.8rem;
+    cursor: pointer;
+}
+
+.rep-user-delete{
+    background-color: purple;
+    color: white;
+    padding: 0.4rem;
+    box-sizing: border-box;
+}
+
+.rep-user-keep{
+    background-color: rgb(219, 219, 219);
+    padding: 0.4rem;
+    box-sizing: border-box;
+}
+
+.rep-post-outer{
+    background-color: white;
+    border-radius: 0.4rem;
+    box-sizing: border-box;
+    padding: 1.2rem;
+    height: fit-content;
+}
+
+.rep-post-photo{
+    width: 100%;
+    margin: 1.2rem 0;
+    max-height: 20rem;
+    overflow: hidden;
+}
+
+.rep-post-photo > img {
+    height: 100% !important;
+    width: 100%;
+    object-fit: cover;
+}
+
+.rep-post-desc{
+    font-size: 1.6rem;
+}
+
+.rep-post-buttons{
+    display: flex;
+    gap: 0.4rem;
+    margin-top: 2.4rem;
+}
+
+.rep-post-keep, .rep-post-delete{
+    width: 100%;
+    border-radius: 0.4rem;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.8rem;
+    cursor: pointer;
+    margin-top: auto;
+    margin-bottom: 0;
+}
+
+.rep-post-header{
+    cursor: pointer;
+}
+
+.rep-post-delete{
+    background-color: purple;
+    color: white;
+    padding: 0.4rem;
+    box-sizing: border-box;
+}
+
+.rep-post-keep{
+    background-color: rgb(219, 219, 219);
+    padding: 0.4rem;
+    box-sizing: border-box;
+}
+
+.rep-comment-outer{
+    background-color: white;
+    border-radius: 0.4rem;
+    padding: 1.2rem;
+}
+
+.repcomment{
+    font-size: 1.6rem;
+    margin-top: 1.2rem;
+}

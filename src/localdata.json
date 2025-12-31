@@ -1,0 +1,280 @@
+{
+    "zodiac": {
+        "Aries": [
+            "Amethyst",
+            "Garnet",
+            "Carnelian"
+        ],
+        "Taurus": [
+            "Agate",
+            "Citrine",
+            "Aventurine"
+        ],
+        "Gemini": [
+            "Aquamarine",
+            "Amber",
+            "Tiger's Eye"
+        ],
+        "Cancer": [
+            "Chalcedony",
+            "Jadeite",
+            "Jasper"
+        ],
+        "Leo": [
+            "Amber",
+            "Crystal",
+            "Topaz"
+        ],
+        "Virgo": [
+            "Sodalite",
+            "Lapis Lazuli",
+            "Jasper"
+        ],
+        "Libra": [
+            "Rose",
+            "Tourmaline",
+            "Chrysocolla"
+        ],
+        "Scorpio": [
+            "Hematite",
+            "Obsidian",
+            "Malachite"
+        ],
+        "Sagittarius": [
+            "Amethyst",
+            "Aventurine",
+            "Lapis Lazuli"
+        ],
+        "Capricorn": [
+            "Andalusite",
+            "Tourmaline",
+            "Smoky Quartz"
+        ],
+        "Aquarius": [
+            "Aquamarine",
+            "Fluorite",
+            "Turquoise"
+        ],
+        "Pisces": [
+            "Agate",
+            "Fluorite",
+            "Kunzite"
+        ]
+    },
+    "Amethyst": {
+        "Name": "Amethyst",
+        "Colours": "purple, dark purple, magenta, white",
+        "Origin": "USA, Russia, Brazil, India, Mexico",
+        "DegreeOfHardness": "7",
+        "TherapeuticUses": "relieves headaches, relieves tension, helps with stomach and breathing problems, clears the mind and relieves stress",
+        "Desc": "Amethyst is an extremely powerful stone with tremendous protective power, endowed with highly spiritual vibrations. It defends the wearer from psychic attacks by transforming their energy into love. As a natural sedative, amethyst blocks geopathogenic zones and negative energies permeating the environment around us. Its serenity contributes to the attainment of expanded states of consciousness and aids in meditation. Amethyst has strong healing and cleansing powers. It also promotes spiritual awareness of all connections. It is traditionally worn as a means of preventing drunkenness. It counteracts intemperance and excessive carnal lust. Promotes sobriety. Overcomes addictions and blocks of all kinds. When used on higher levels of personality, amethyst opens a gateway to another reality."
+    },
+    "Garnet": {
+        "Name": "Garnet",
+        "Colours": "red, brown, black, yellow, orange",
+        "Origin": "Brazil, Madagascar, Slovakia, Malaysia",
+        "DegreeOfHardness": "6,5 - 7,5",
+        "TherapeuticUses": "regenerates the body, restores lost strength, purifies the blood, supports metabolism, creates protection and has a beneficial effect on the spine, heart and lungs",
+        "Desc": "Garnet is a stone with a strong ability to give energy. It contributes to gaining new strength and to their renewal. It purifies the chakras and gives them new energy, which revitalizes, cleanses and keeps them in balance. It brings calmness or longing as needed. It is said that garnet can warn of impending danger and has been used as an amulet since ancient times. Garnet is one of the most widely used stones. It comes in several forms, which vary according to the minerals they are made up of. Each form has slightly different additional properties that extend the common generic nature. Garnet encourages love and devotion. It keeps sexual desire in balance and can correct emotional disharmony. Especially red garnet stimulates and controls the increase of kundalini energy, while at the same time increasing sexual potency as well. It is a stone that promotes strong relationships and concern for the other."
+    },
+    "Carnelian": {
+        "Name": "Carnelian",
+        "Colours": "red, red-orange, brown",
+        "Origin": "UK, India, Czech Republic, Slovakia, Peru, Iceland, Romania",
+        "DegreeOfHardness": "7",
+        "TherapeuticUses": "prevents skin diseases, stops nosebleeds and helps with all blood-related diseases, universal health protection, gives strength and vitality and increases fertility",
+        "Desc": "Karneol will ground you and anchor you in the present reality. It is a stabilizing stone with high energy. Excellent for restoring vitality, motivation and effectively stimulating creative abilities. Suitable for dramatic situations. It can purify other stones.Psychologically, carnelian imparts the ability to cope with the course of the life cycle and banishes the fear of death. In ancient times it was used to protect the dead on their journey to the beyond. It gives courage, brings a positive outlook on life, dispels apathy and motivates success in business and other fields. Carnelian is useful in overcoming addictions of all kinds. This stone will help you gain faith in yourself as well as in what you perceive around you. It helps to penetrate to the very roots of what is making your life unpleasant and gives you the strength to persevere."
+    },
+    "Agate": {
+        "Name": "Agate",
+        "Colours": "clear or milky white, grey, blue, green, pink, brown",
+        "Origin": "USA, India, Morocco, Czech Republic, Africa",
+        "DegreeOfHardness": "6",
+        "TherapeuticUses": "stabilizes the aura, cancels and reshapes negative energies, cleanses the lymphatic system and purifies the pancreas",
+        "Desc": "Agate is a very stable stone made up of microscopic quartz crystals deposited in interlocking bands. It serves as a grounding stone that gives emotional, physical and mental balance. It helps in focusing and stabilizing the body's energy.Agate reconciles yin and yang, the positive and negative forces holding the entire universe in place. This soothing stone works slowly, but provides great power. It can bring to light hitherto hidden information, trigger memories and turn the wearer's attention to imbalances disrupting their well-being."
+    },
+    "Citrine": {
+        "Name": "Citrine",
+        "Colours": "yellow, yellow with brown spots",
+        "Origin": "Brazil, Russia, France, Madagascar, UK, USA",
+        "DegreeOfHardness": "7",
+        "TherapeuticUses": "restoring lost strength and energy, beneficial for chronic fatigue syndrome, stimulates digestion, spleen and pancreas, relieves infections in the kidneys and bladder and helps with eye problems",
+        "Desc": "Citrine acts as an effective purifier and regenerator. As a stone that stores solar energy within itself, it is an extremely beneficial crystal. It sells warmth, energy and greatly enhances the creative abilities of its owner. It is one of the crystals that never needs cleaning. It absorbs, transmutes, dissipates and grounds negative energies, giving it an extraordinary protective effect on the environment in which its owner moves. Citrine brings energy to all levels of life. As a protector of the aura, it functions as an early warning system, always giving its wearer ample time to act for self-defense. It can also cleanse the chakras - especially the solar plexus and umbilical chakras. It activates the crown chakra and amplifies intuition."
+    },
+    "Aventurine": {
+        "Name": "Aventurine",
+        "Colours": "green, blue, purple",
+        "Origin": "Italy, Brazil, China, India, Tibet, Nepal",
+        "DegreeOfHardness": "6,5",
+        "TherapeuticUses": "beneficial effect on the thyroid gland, preventive against the development of arteriosclerosis and the outbreak of allergies, lowers cholesterol, relieves migraines, has a very beneficial effect on strengthening eyesight",
+        "Desc": "Aventurine is a stone that is highly positive for everything related to prosperity and wealth. It is strongly linked to the realm of the devas, used to protect gardens or houses from geopathogenic zones. The aventurine you carry with you absorbs electromagnetic smog and protects against environmental pollutants. If you attach it to your mobile phone, it also provides protection from the radiation that emanates from it. The aventurine crystal mitigates or completely cancels the impact of negative situations and turns them into the opposite."
+    },
+    "Aquamarine": {
+        "Name": "Aquamarine",
+        "Colours": "green-blue",
+        "Origin": "Ireland, India, Zimbabwe, Pakistan, USA",
+        "DegreeOfHardness": "8",
+        "TherapeuticUses": "ensures good health, relieves toothache, treats stomach, esophagus, jaw, sore throat, hay fever, works against nearsightedness and farsightedness",
+        "Desc": "Aquamarine is a stone symbolizing courage. Its calming energy suppresses stress and soothes the mind. It brings harmony to its surroundings and protects it from harmful pollution. In ancient times, it was believed to be able to counter the powers of darkness while simultaneously gaining the favor of the spirits of light. Sailors wore it as a talisman against drowning.On a spiritual level, aquamarine is spiritually related to sensitive people. It has the ability to evoke tolerance in others. It overcomes prejudice and will provide support to all responsible individuals. It encourages one to take responsibility for one's own destiny. It helps to form a persistent, honest and dynamic personality. It can break old self-defensive programming."
+    },
+    "Amber": {
+        "Name": "Amber",
+        "Colours": "golden brown, yellow",
+        "Origin": "Russia, Poland, Great Britain, Italy",
+        "DegreeOfHardness": "2 - 2,5",
+        "TherapeuticUses": "preventive is a very effective protector of health at all levels, heals the throat, thyroid, stomach, liver, gallbladder, kidneys, bladder, spleen, joints",
+        "Desc": "Amber is not really a crystal. It is the hardened and petrified sap of trees. It has a strong connection to the earth and is a conductor of higher energies. Amber has strong healing and cleansing powers that banish imbalances from the body and enhance healing. It also purifies the environment and chakras. It absorbs negative energies and transforms them into positive forces that encourage the body to heal itself. As a powerful protector, it ensures the earthly body is in constant contact with a higher spiritual reality."
+    },
+    "Tiger's Eye": {
+        "Name": "Tiger's Eye",
+        "Colours": "brown-yellow, pink, blue, red",
+        "Origin": "USA, Mexico, India, Australia, South Africa",
+        "DegreeOfHardness": "7",
+        "TherapeuticUses": "balances the activity of the cerebral hemispheres, helps in the treatment of broken bones, acts on the reproductive organs and helps in the treatment of personality disorders",
+        "Desc": "The Tiger's Eye combines earth energy with the energies of the sun to induce a state of high vibration, which is nevertheless grounded and brings spiritual energy into the earth. Placed on the third eye, it supports the mental faculties of earth-oriented people, balances the lower chakras and encourages the growth of kundalini.Tiger's Eye is a protective stone that was traditionally worn as a talisman against hostile thoughts and curses."
+    },
+    "Chalcedony": {
+        "Name": "Chalcedony",
+        "Colours": "white, blue, pink, grey",
+        "Origin": "Namibia, Brazil, Morocco, USA, Czech Republic, Slovakia",
+        "DegreeOfHardness": "7",
+        "TherapeuticUses": "it has a high purifying effect, heals everything bad, including wounds that have not yet healed, increases the body's energy, has a beneficial effect on the circulatory system",
+        "Desc": "Chalcedony is a stone that gives strength to interpersonal relationships, sells a sense of brotherhood and goodwill, increases the internal stability of groups. It serves as an assistant in the transmission of thoughts and telepathy. The crystal absorbs negative energy, which it then dissipates to prevent its further transmission.In ancient times, chalcedony was used to make silver-lined goblets, which were said to protect their owner from poisoning."
+    },
+    "Jadeite": {
+        "Name": "Jadeite",
+        "Colours": "white, green, purple, orange, pink, brown, yellow, red, blue, black",
+        "Origin": "Japan, China, Italy, Russia, Korea",
+        "DegreeOfHardness": "6 - 7",
+        "TherapeuticUses": "helps the body heal itself by acting on non-physical problems that caused the disease, heals the kidneys, detoxifies, restores the cellular and skeletal systems",
+        "Desc": "Jade is a symbol of purity and serenity. In oriental lands, it is seen as the personification of wisdom gained through contemplation. Jade is associated with the heart chakra and enhances both love and the quality of caring for the family. It is a protective stone that keeps its wearer out of danger and brings harmony to his life. Jade attracts happiness and friendship.In the mental life, it stabilizes the personality and brings the soul into harmony with the body."
+    },
+    "Jasper": {
+        "Name": "Jasper",
+        "Colours": "red, yellow, brown, green, blue, purple, beige",
+        "Origin": "worldwide",
+        "DegreeOfHardness": "7",
+        "TherapeuticUses": "energizes, relieves labor pains, aids digestion",
+        "Desc": "Jaspis is known as the \"best breadwinner\". It offers support and help in moments of stress, bringing calm and awareness of the whole. Used in healing, it unifies all aspects of life. Jasper reminds people to help each other. It harmonizes the chakras and can be used to set them right. Each colour of jasper belongs to one chakra. This stone helps with shamanic journeys and remembering dreams. It provides protection and grounds the energy of the body. It absorbs negative energies while purifying and balancing the chakras and aura."
+    },
+    "Crystal": {
+        "Name": "Crystal",
+        "Colours": "clear",
+        "Origin": "worldwide",
+        "DegreeOfHardness": "7",
+        "TherapeuticUses": "suitable for all health problems, including problems of the soul",
+        "Desc": "The crystal helps us to find lessons in what we experience and at the same time to let go of responsibilities and limitations that are beyond our power. It will serve well for people who feel like they are in a vise in their current situation - in fact, they have brought it on themselves simply because they feel the need to feel useful."
+    },
+    "Topaz": {
+        "Name": "Topaz",
+        "Colours": "clear, blue, honey yellow, pink, brown, green",
+        "Origin": "Nigeria, Germany, USA, Sri Lanka, Australia, Mexico",
+        "DegreeOfHardness": "8",
+        "TherapeuticUses": "regulates the digestive system, helps with weight loss, but also fights anorexia, relieves rheumatism and arthritis",
+        "Desc": "Topaz is a fine balanced stone gifted with the ability to empathize, able to focus energy where it is most needed. It calms, heals, stimulates, recharges motivates and balances the meridians. Topaz brings truth and forgiveness. It helps illuminate the path, emphasizes goals and draws attention to inner resources. This crystal brings faith in a universe that allows you to \"be\" first and \"do\" second. It limits doubt and uncertainty."
+    },
+    "Sodalite": {
+        "Name": "Sodalite",
+        "Colours": "blue, white, grey",
+        "Origin": "Brazil, Burma, Africa",
+        "DegreeOfHardness": "5,5 - 6",
+        "TherapeuticUses": "helps heal problems caused by stress, negative emotions and fear, strengthens the nervous system",
+        "Desc": "Sodalite combines logic with intuition and opens wide the gates of the receptive spirit, for it brings information from the higher mind down to the bodily level. It stimulates the activity of the pineal gland and the third eye. It deepens meditation. When you immerse yourself in sodalite-induced meditation, your mind can understand the actual circumstances of your life. It is a stone that encourages the wearer to pursue truth and ideals that compel him to remain true to himself and to all that he believes in."
+    },
+    "Lapis Lazuli": {
+        "Name": "Lapis",
+        "Colours": "dark blue with gold spots",
+        "Origin": "Afghanistan, Chile, Italy, Argentina, USA, Tajikistan",
+        "DegreeOfHardness": "5 - 5,5",
+        "TherapeuticUses": "reduces fever, blood disorders, suppresses migraine headaches, aids in detoxification, strengthens the immune system and helps with respiratory ailments",
+        "Desc": "Lapis lazuli opens the third eye and maintains the balance of the throat chakra. It helps to achieve a state of enlightenment, facilitates the evocation and interpretation of dreams, and enhances psychic abilities. It facilitates spiritual journeys and stimulates personal and spiritual power. This stone quickly removes stress and brings a sense of deep calm and peace. It imparts extraordinary equanimity and is the key to attaining spiritual knowledge."
+    },
+    "Rose": {
+        "Name": "Rose",
+        "Colours": "pink",
+        "Origin": "South Africa, Brazil, USA, India",
+        "DegreeOfHardness": "7",
+        "TherapeuticUses": "has a positive effect in diseases of the kidneys, heart,liver, lungs and genitals, also in important centres of the autonomic nervous system",
+        "Desc": "Rosene is the stone of unconditional love and infinite peace. It is one of the most important crystals for the heart and heart chakra. It brings lessons on the true essence of love. It purifies and opens the heart on all levels. It brings inner healing and love of self. It has a calming effect. It serves well in moments of trauma or crisis."
+    },
+    "Tourmaline": {
+        "Name": "Tourmaline",
+        "Colours": "brown, green, pink, red, yellow, blue, melon shade, teal, black",
+        "Origin": "Sri Lanka, Brazil, Afghanistan, USA, Western Australia, Africa",
+        "DegreeOfHardness": "7 - 7,5",
+        "TherapeuticUses": "it is an effective healer of the body and soul, increases immunity, cures childhood diseases, has a beneficial effect on the heart and spine, facilitates child birth, helps with dyslexia",
+        "Desc": "Tourmaline purifies and transforms excessively heavy energy into light vibrations. It grounds spiritual energy, cleanses and balances all chakras and creates a protective shield around the body.It is a shamanic stone that provides protection during ceremonies. It can be used in divination from the sphere. Traditionally, it was used in revealing the culprit or in times of trouble to indicate the direction to take next."
+    },
+    "Chrysocolla": {
+        "Name": "Chrysocolla",
+        "Colours": "blue, teal",
+        "Origin": "England, Israel, Mexico, Namibia, Congo",
+        "DegreeOfHardness": "2 - 4",
+        "TherapeuticUses": "heals digestive tract problems, ulcers, bone problems, arthritis, muscle spasms, burns, heals throat and tonsil infections, strengthens the thyroid and metabolism",
+        "Desc": "Chrysocolla is a calm and easy-going stone. It helps with meditation and communication. If you have it in your home, it banishes negative energies of all kinds, helping you to respond to ever-changing situations with calm, poise and reserves of inner strength. It has a beneficial effect on relationships, which become stable and rock-solid thanks to it. The crystal has a beneficial effect on the home as a whole and on the relationships between individuals.It has a soothing and purifying effect."
+    },
+    "Hematite": {
+        "Name": "Hematite",
+        "Colours": "silver, red",
+        "Origin": "UK, Italy, Brazil, Sweden, Canada, Switzerland",
+        "DegreeOfHardness": "5",
+        "TherapeuticUses": "stops bleeding, maintains healthy blood and cures all blood-related diseases, expels fever from the body, cures circulatory problems, promotes kidney function, iron storage, blood cell production",
+        "Desc": "Hematite is particularly effective in grounding and as a protective stone. It brings balance to the body, mind and spirit. If used during journeys outside the body, it protects the soul and guides it back into the material body. This stone carries a strong yang element and ensures the balance of the meridians, correcting the imbalance of the yin element. It removes anything unfavorable and prevents negative energies from entering the aura, thus establishing calm, peace and harmony in the body. Hematite is said to be particularly beneficial in situations involving law and laws."
+    },
+    "Obsidian": {
+        "Name": "Obsidian",
+        "Colours": "black, brown, red, golden",
+        "Origin": "USA, Mexico",
+        "DegreeOfHardness": "5,5",
+        "TherapeuticUses": "strengthens digestive organs, detoxifies the body, reduces pain in arthritis and joint problems, treats inflammation caused by bacteria, natural antibiotic",
+        "Desc": "Obsidian was formed from molten lava that solidified so quickly that it didn't have time to crystallize. It is a stone without boundaries and without limitations. This makes it act extremely fast with tremendous power. It aids the truth, reflects individual human qualities and mercilessly exposes cracks, weaknesses and blocks. Nothing can be concealed from obsidian. By being able to offer a way to get rid of all destructive and debilitating qualities, obsidian encourages us to grow further and provides us with steady support throughout the process. However, it needs to be handled with great care, it is best to use the stone under the guidance of an experienced healer, as it can bring negative emotions and unpleasant truths to the surface."
+    },
+    "Malachite": {
+        "Name": "Malachite",
+        "Colours": "green",
+        "Origin": "Romania, Zambia, Congo, Russia",
+        "DegreeOfHardness": "3,5 - 4",
+        "TherapeuticUses": "helps asthma, fractures, dizziness, pancreas, spleen, epilepsy, arthritis, joint swelling and strengthens the immune system",
+        "Desc": "Malachite is a stone endowed with great power, but at the same time it is one of the crystals that must be handled with great care. It is best to use it under the supervision of a qualified healer who is experienced in healing with crystals. It is poisonous should only be worked with its polished form. Never inhale its dust. When taken as an elixir, it is only applied externally. The other option is to follow the indirect method when preparing the elixir.Malachite amplifies both positive and negative energies."
+    },
+    "Andalusite": {
+        "Name": "Andalusite",
+        "Colours": "colourless, white, pink",
+        "Origin": "Scotland, Kenya, New Zealand, Australia, India, Norway, Brazil",
+        "DegreeOfHardness": "6,5",
+        "TherapeuticUses": "heals the upper digestive tract and the emotional tension that affects it, detoxifies, treats skin, hair, eye, pancreas and liver problems",
+        "Desc": "The moonstone is the stone of new beginnings. As its name suggests, it is strongly associated with the Moon and intuition. Like the moon, the stone is also associated with projection and remembrance, as the moon is constantly waxing and waning, reminding us that everything is part of a cycle of change. This stone is most powerful for calming turbulent emotions. The moonstone brings to the surface things hitherto closed in the subconscious. It increases intuition and empathy. Evokes lucid vivid dreams, especially at the time of the full moon. Moonstone is traditionally used to enhance psychic abilities and develop the divinatory arts."
+    },
+    "Smoky Quartz": {
+        "Name": "Smoky Quartz",
+        "Colours": "brown, yellow",
+        "Origin": "worldwide",
+        "DegreeOfHardness": "7",
+        "TherapeuticUses": "for pain, especially headaches, relieves stress, calms the nervous system, heals the hips, legs and back, harmonizes the amount of fluids and minerals in the body",
+        "Desc": "Smoky Quartz is one of the most effective grounding and uktoving stones. At the same time, it can increase vibrations during meditation. It is a protective stone with a strong connection to the earth and base chakras. It sells to its owner a concern for the environment and ecological solutions. It is also an excellent stress reliever. It helps to overcome difficult situations in a calm and composed manner. It gives strength in decision making. Grounding spiritual energy and gently neutralizing negative vibrations, Zahneda banishes geopathogenic stress."
+    },
+    "Fluorite": {
+        "Name": "Fluorite",
+        "Colours": "blue, green, purple",
+        "Origin": "USA, UK, Australia, Germany, Norway, China, Peru, Mexico, Brazil",
+        "DegreeOfHardness": "4",
+        "TherapeuticUses": "banishes negative energy and disturbances of all kinds, cleanses, removes and rearranges everything in the body that is not in perfect order, eliminates viruses, cures all kinds of infections including colds and colds",
+        "Desc": "Fluorite is a crystal endowed with strong protective powers, especially on a psychic level. It will help to recognize when foreign influences are trying to manifest within us. At the same time, it can stop the action of psychic manipulation and inappropriate mental influence. Fluorite crystal purifies and stabilizes the aura. It works extremely effectively against harmful computer influences and electromagnetic radiation. If properly placed, it blocks geopathogenic zones. When used for healing, fluorite drives away negative energies and disturbances of all kinds. It cleanses, removes and reorganizes everything in the body that is not in absolute order. It is the best performing crystal when it comes to overcoming any disharmony in the body."
+    },
+    "Turquoise": {
+        "Name": "Turquoise",
+        "Colours": "turquoise, green, blue",
+        "Origin": "USA, Egypt, Mexico, Peru",
+        "DegreeOfHardness": "5 - 6",
+        "TherapeuticUses": "reduces fevers and headaches, prevents migraines, improves the immune system, is good for detoxification and anti-inflammation, and regulates acidity in the body",
+        "Desc": "Turquoise is the most effective healing crystal. It brings recovery of the spirit and well-being of the body. It is a protective stone used since time immemorial for amulets. Supposedly, it can also change colour to warn its owner of the danger of infidelity. It enables spiritual attunement and improves communication between the material and spiritual worlds. Placed on the third eye, it increases the ability to intuit and facilitates meditation."
+    },
+    "Kunzite": {
+        "Name": "Kunzite",
+        "Colours": "purple, pink, green, clear",
+        "Origin": "Brazil, USA, Madagascar, Burma",
+        "DegreeOfHardness": "6,5",
+        "TherapeuticUses": "relaxes muscles and stress, relieves joint pain,acts on the circulatory system and nerves, neutralises the effects of anaesthesia",
+        "Desc": "Calm Kunzite is an extremely spiritual stone with high vibrations. It awakens the heart centre to activity and evokes unconditional love. It awakens thoughts leading to love and communication with one another. It radiates peace and connects you to universal cosmic love. Kunzite induces deep and focused meditative states. It is very beneficial for anyone who finds that they can only immerse themselves in meditation with difficulty. At the same time, it enhances the creative faculties. Kunzite leads to humility and increases the willingness to serve others. It is a protective stone that can take care of both the individual and the entire surrounding environment. It can dispel all negativity."
+    }
+}

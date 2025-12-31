@@ -1,0 +1,9 @@
+.profile-widget-outer{
+    background-color: transparent;
+    width: 20%;
+    height: 20rem;
+    border-radius: 1.2rem;
+    position: absolute;
+    right: 0;
+
+}
